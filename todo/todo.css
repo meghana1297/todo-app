@@ -1,0 +1,19 @@
+html{
+    
+}
+body{
+   background-color: beige; 
+}
+.main{
+    background-color: coral;
+}
+li:hover{
+    background-color: cornflowerblue;
+}
+.todo-header{
+    
+}
+
+.todo-body{
+
+}
